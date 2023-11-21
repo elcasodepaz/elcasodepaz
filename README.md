@@ -24,7 +24,7 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400
 
 
 - <b> Active Directory Home Lab </b>
-  - [Practicing hacking with Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practising hacking with Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>💉 Sql Injection</b>
 
 
@@ -32,7 +32,7 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400
   <b>![image](https://github.com/elcasodepaz/Elcasodepaz/assets/88005094/642a0650-713b-4d13-9ecf-65f60c2bfd01)</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b> 📃 Certifications </b>
-   - [Practicing hacking with Python](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Practising hacking with Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>📺Learn Ethical Hacking YouTube Videos</h2>
