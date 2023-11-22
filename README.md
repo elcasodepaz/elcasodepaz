@@ -1,6 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=elcasodepaz.Elcasodepaz" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=5007&pause=926&color=478FFF&center=true&multiline=true&random=false&width=466&height=147&lines=H1!%F0%9F%96%96*%26*1'm%243lCaso%24D3Paz+%E2%98%AE%EF%B8%8F;%3E%3ECyb3rS3cur1ty%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8FProf3ss10nal%3C%3C;%E2%9C%85+My+Cyb3rS3cur1ty+Pr0j3cts+%F0%9F%9B%A1%EF%B8%8F;%E2%AC%87%EF%B8%8FDown+Below%E2%AC%87%EF%B8%8F++Thankz+!+%F0%9F%98%89)](https://git.io/typing-svg)
+![image](https://github.com/elcasodepaz/Elcasodepaz/assets/88005094/91396d0b-e5c7-47a8-82a5-178e34824b13)
+
+
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ElcasoD3PaZ;" />
+</h1>
+
+<h3 align="center">A passionate software developer from New Jerz </h3>
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -56,7 +66,15 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400
 [linkedin]: https://linkedin.com/in/B.A.G
 
 
+
+
+
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> 🐍  My Contributions 🐍 </h2>
    <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/elcasodepaz/Elcasodepaz/output/github-contribution-grid-snake.svg" />
+<br/><br/><br/>
+</div>
+
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
