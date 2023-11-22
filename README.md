@@ -2,45 +2,28 @@
 
 ![image](https://github.com/elcasodepaz/Elcasodepaz/assets/88005094/91396d0b-e5c7-47a8-82a5-178e34824b13)
 
-
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ElcasoD3PaZ;" />
-</h1>
-
-<h3 align="center">A passionate software developer from New Jerz </h3>
 
 
+ 
+ 
+<h3 align="center">A passionate Security Analyst from The Garden State</h3>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?
-font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+El+caso!;"/>
-</h1>
-
-<h3 align="center>A passionate Security Analyst from New Jersey </h3>
-
-  <br/>
-
-
 <div align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,py,mysql,git,docker,vim" />
-  </a>
-</p>
+    <img src="https://skillicons.dev/icons?i=linux,py,mysql,git,docker,vim" /> <h2></h2>
   
-
-
-
-- <b> Active Directory Home Lab </b>
-  - [Practising hacking with Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  <b>![image](https://github.com/elcasodepaz/Elcasodepaz/assets/88005094/642a0650-713b-4d13-9ecf-65f60c2bfd01)</b>
+- <b> spoofing the MAC_Address to bypass networks, routers eg; </b>
+  - - [A quick way to sppof your MAC on your Linux system  (Datastructures and Algorithms Demo)](https://github.com/elcasodepaz/mac_changer.py)
 - <b>💉 Sql Injection</b>
 
-
-
-  <b>![image](https://github.com/elcasodepaz/Elcasodepaz/assets/88005094/642a0650-713b-4d13-9ecf-65f60c2bfd01)</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/elcasodepaz/mac_changer.py)
 - <b> 📃 Certifications </b>
    - [Practising hacking with Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
@@ -86,7 +69,17 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Elcasodepaz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<br/><br/>
 
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
 
 
 
