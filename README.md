@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=linux,py,mysql,git,docker,vim" /> <h2></h2>
   
   <b>![image](https://github.com/elcasodepaz/Elcasodepaz/assets/88005094/642a0650-713b-4d13-9ecf-65f60c2bfd01)</b>
-- <b> spoofing the MAC_Address to bypass networks, routers eg; </b>
+- <b> spoofing a MAC_Address to bypass networks, routers eg; </b>
   - [A quick way to sppof your MAC on your Linux system  (Datastructures and Algorithms Demo)](https://github.com/elcasodepaz/mac_changer.py)
 - <b>💉 Sql Injection</b>
 
