@@ -9,7 +9,7 @@
  
  
 <h3 align="center">A passionate Security Analyst from The Garden State</h3>
-<h2 align="center">⚒️ My-TooLBox ⚒️</h2>
+<h2 align="center">⚒️My-TooLBox⚒️</h2>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?
