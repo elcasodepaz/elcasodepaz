@@ -3,7 +3,7 @@
 ![image](https://github.com/elcasodepaz/Elcasodepaz/assets/88005094/91396d0b-e5c7-47a8-82a5-178e34824b13)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+3lcasoD3PaZ;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Cyber-3ye;" />
 
 
  
