@@ -54,8 +54,6 @@
  
 <div align="right"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/cyberrealm44@gmail.com/> 
-  
   </a>
 </div>   
 
