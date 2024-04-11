@@ -45,7 +45,7 @@
 
 [twitter]: https://twitter.com/elcaso
 [youtube]: https://www.youtube.com/Cyber33Realm](https://www.youtube.com/channel/UCbxcAhHvuh_lbGwAak0OcoA)
-[instagram]:https://www.instagram.com/elcaso/
+[instagram]:https://www.instagram.com/cyberey3z/
 [linkedin]: https://www.linkedin.com/in/cyberey3-news
 
 
