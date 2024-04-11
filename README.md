@@ -43,7 +43,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/elcaso
+[twitter]: https://twitter.com/CyberEy3z
 [youtube]: https://www.youtube.com/Cyber33Realm](https://www.youtube.com/channel/UCbxcAhHvuh_lbGwAak0OcoA)
 [instagram]:https://www.instagram.com/cyberey3z/
 [linkedin]: https://www.linkedin.com/in/cyberey3-news
