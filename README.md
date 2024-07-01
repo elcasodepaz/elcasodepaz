@@ -20,7 +20,7 @@
   
   <b>![image](https://github.com/elcasodepaz/Elcasodepaz/assets/88005094/642a0650-713b-4d13-9ecf-65f60c2bfd01)</b>
 - <b> spoofing a MAC_Address to bypass networks and routers.; </b>
-  - A quick way to sppof your Mac address on your Linux system (https://github.com/elcasodepaz/mac_changer.py)
+  - A quick way to spoof your Mac address on your Linux system </b> (https://github.com/elcasodepaz/mac_changer.py)
 - <b>💉 Sql Injection Coming Soon </b>
 
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/elcasodepaz/mac_changer.py)
