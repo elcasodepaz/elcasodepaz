@@ -12,7 +12,7 @@
 <div align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,py,mysql,git,docker,vim, " /> <h2></h2> !
+    <img src="https://skillicons.dev/icons?i=linux,py,mysql,git,docker,vim,raspberrypi " /> <h2></h2> !
 
 
 <p align="center">
