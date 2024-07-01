@@ -12,7 +12,7 @@
 <div align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,py,mysql,git,docker,vim,raspberrypi, macos, wordpres " /> <h2></h2> 
+    <img src="https://skillicons.dev/icons?i=linux,py,mysql,git,docker,vim,raspberrypi, apple " /> <h2></h2> 
 
   <b>![image](https://github.com/elcasodepaz/Elcasodepaz/assets/88005094/642a0650-713b-4d13-9ecf-65f60c2bfd01)</b>
 - <b> spoofing a MAC_Address to bypass networks and routers.; </b>
