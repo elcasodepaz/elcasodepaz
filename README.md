@@ -78,7 +78,6 @@ follow my cyber security journey
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/elcasodepaz"><img src="https://github-readme-stats.vercel.app/api?username=elcasodepaz&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="elcasodepaz's GitHub stats" /></a>
 
