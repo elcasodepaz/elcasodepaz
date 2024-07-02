@@ -78,7 +78,13 @@ follow my cyber security journey
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/elcasodepaz"><img src="https://github-readme-stats.vercel.app/api?username=elcasodepaz&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="elcasodepaz's GitHub stats" /></a>
+
+<a href="http://www.github.com/elcasodepaz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elcasodepaz&stroke=64748b&background=000000&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+
+<a href="https://github.com/elcasodepaz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcasodepaz&langs_count=10&title_color=a855f7&text_color=64748b&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
