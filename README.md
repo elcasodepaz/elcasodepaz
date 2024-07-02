@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm,cybeREYez;" />
  <h3 align="center">A passionate Security Analyst from The Garden State</h3>  
 
-                   #  follow my cyber security journey
+                   #  follow my cyber security journey #
 
 * 🌍  I'm based in new jersey
 * ✉️  You can contact me at [cyberrealm44@gmail.com](mailto:cyberrealm44@gmail.com)
