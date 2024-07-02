@@ -25,7 +25,7 @@ follow my cyber security journey
     <img src="https://skillicons.dev/icons?i=linux,py,mysql,git,docker,vim,raspberrypi "
         /> <h2 > </h2> Projects </h2>
 
-- <b> spoofing a MAC_Address to bypass networks and routers.; </b>
+- <b> spoofing a MAC_Address to bypass networks and routers </b>
   -  </b> https://github.com/elcasodepaz/mac_changer.py
 - <b>💉 Sql Injection Coming Soon </b>
 
