@@ -23,8 +23,7 @@ follow my cyber security journey
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,py,mysql,git,docker,vim,raspberrypi "
- 
-       /> <h2 > </h2> Projects </h2>
+        /> <h2 > </h2> Projects </h2>
 
 - <b> spoofing a MAC_Address to bypass networks and routers </b>
   -  </b> https://github.com/elcasodepaz/mac_changer.py
