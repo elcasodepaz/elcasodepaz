@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=elcasodepaz.Elcasodepaz" />
+   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=elcasodepaz.Elcasodepaz" />
 
 ![image](https://github.com/elcasodepaz/Elcasodepaz/assets/88005094/91396d0b-e5c7-47a8-82a5-178e34824b13)
 
