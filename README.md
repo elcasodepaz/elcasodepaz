@@ -14,7 +14,6 @@ follow my cyber security journey
 * 🤝  I'm open to collaborating on cyber security projects
 * ⚡  i been secretly planning on how to take over the world like pinky .'. L👀k 
  <h2></h2>
-<---------------------------------------------------------------------------------->
 <h3 align="center">⚒️My-TooLBox⚒️ 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -23,8 +22,7 @@ follow my cyber security journey
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,py,mysql,git,docker,vim,raspberrypi "
-       
-   <---------------------------------------------------------------------------------->
+ 
        /> <h2 > </h2> Projects </h2>
 
 - <b> spoofing a MAC_Address to bypass networks and routers </b>
