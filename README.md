@@ -32,6 +32,7 @@ follow my cyber security journey
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/elcasodepaz/mac_changer.py)
 - <b> 📃 Certifications </b>
    - https://coursera.org/share/b3527f408f0d83c71c5c543b7adfbb8a
+   - Google certification walkthrough
 
 
  <h2>📺Learn Ethical Hacking YouTube Videos</h2>
