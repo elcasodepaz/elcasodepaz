@@ -25,7 +25,7 @@ follow my cyber security journey
     <img src="https://skillicons.dev/icons?i=linux,py,mysql,git,docker,vim,raspberrypi "
         /> <h2 > </h2> Projects </h2>
 
-- <b> spoofing a MAC_Address to bypass Networks Routers And is Another layer Of Anonimity </b>
+- <b> ( Spoofing ) Spoof Your Mac Address to bypass Networks Routers And is Another layer Of Anonimity </b>
   -  </b> https://github.com/elcasodepaz/mac_changer.py
   
  <h2 ></h2> Spanish Projects </h2> 
