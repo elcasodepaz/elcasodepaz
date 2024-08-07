@@ -4,12 +4,12 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm,cybeREYez;" />
- <h3 align="center">A passionate Security Analyst from The Garden State</h3>  
+ <h3 align="center">A passionate Purple Teamer </h3>  
 
 follow my cyber security journey 
-* 🌍  I'm based in new jersey
+* 🌍  I'm based in the cyberrealm
 * ✉️  You can contact me at [cyberrealm44@gmail.com](mailto:cyberrealm44@gmail.com)
-* 🚀  I'm currently working on [python project name Got'em]()
+* 🚀  I'm currently working on [translating my top python projects into spanish]()
 * 🧠  I'm learning python, sql, docker, wireshark, malware analysis
 * 🤝  I'm open to collaborating on cyber security projects
 * ⚡  i been secretly planning on how to take over the world like pinky .'. L👀k 
@@ -37,11 +37,11 @@ follow my cyber security journey
 
  <h2>📺Learn Ethical Hacking YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/soon)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/soon)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/soon)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/soon)
+- [Is WGU Legit?](https://www.youtube.com/soon)
 
  <h2> 🤳 Connect with me:</h2> <a href="https://www.x.com/CyberEy3z" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/CyberEy3z?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
