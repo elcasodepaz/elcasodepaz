@@ -31,7 +31,7 @@ follow my cyber security journey
      Spanish Projects ⤵️ 
 
   
-   /> <h2 ></h2> Certifications </h2>
+ <h2 ></h2> Certifications </h2>
 
    - https://coursera.org
    - Google certification walkthrough (coming soon)
