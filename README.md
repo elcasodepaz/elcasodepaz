@@ -27,8 +27,9 @@ follow my cyber security journey
 
 - <b> spoofing a MAC_Address to bypass networks and routers </b>
   -  </b> https://github.com/elcasodepaz/mac_changer.py
-- <b>-----Top Spanish Python projects -----
--------->
+  
+     ⤵️ Spanish Projects⤵️ 
+  
     </h2> Certifications </h2>
 - <b> 📃 Certifications </b>
    - https://coursera.org
