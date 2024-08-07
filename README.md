@@ -31,7 +31,7 @@ follow my cyber security journey
 
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/elcasodepaz/mac_changer.py)
  
-  - </h2> Certifications </h2>
+    </h2> Certifications </h2>
 - <b> 📃 Certifications </b>
    - https://coursera.org
    - Google certification walkthrough (coming soon)
