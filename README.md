@@ -30,8 +30,8 @@ follow my cyber security journey
   
  <h2 ></h2> Spanish Projects </h2> 
  
- - <b> Ojo-cibernetico es una herramienta que puede escanear nombres de usuario, IPs y numeros telefonicos </b> 
-  - </b> https://github.com/elcasodepaz/Ojo-Cibernetico.py
+- <b> Ojo-cibernetico es una herramienta que puede escanear nombres de usuario, IPs y numeros telefonicos </b> 
+  - </b> https://github.com/elcasodepaz/Ojo-Cibernetico
      
  <h2 ></h2> Certifications </h2>
 
