@@ -33,7 +33,7 @@ follow my cyber security journey
 - <b> 📃 Certifications </b>
    - https://coursera.org
    - Google certification walkthrough
-   - Linux Fundamentals Course (HTB Academy)
+   - https://academy.hackthebox.com/course/preview/linux-fundamentals (HTB Academy)
 
 
  <h2>📺Learn Ethical Hacking YouTube Videos (COMING SOON )</h2>
