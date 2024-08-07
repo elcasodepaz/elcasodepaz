@@ -9,7 +9,7 @@
 follow my cyber security journey 
 * 🌍  I'm based in new jersey
 * ✉️  You can contact me at [cyberrealm44@gmail.com](mailto:cyberrealm44@gmail.com)
-* 🚀  I'm currently working on [python project name Got'em](http://github.com/elcasodepaz/Got-em)
+* 🚀  I'm currently working on [python project name Got'em]()
 * 🧠  I'm learning python, sql, docker, wireshark, malware analysis
 * 🤝  I'm open to collaborating on cyber security projects
 * ⚡  i been secretly planning on how to take over the world like pinky .'. L👀k 
