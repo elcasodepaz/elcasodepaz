@@ -32,7 +32,7 @@ follow my cyber security journey
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/elcasodepaz/mac_changer.py)
 - <b> 📃 Certifications </b>
    - https://coursera.org
-   - Google certification walkthrough
+   - Google certification walkthrough (coming soon)
    - https://academy.hackthebox.com/course/preview/linux-fundamentals (HTB Academy)
 
 
