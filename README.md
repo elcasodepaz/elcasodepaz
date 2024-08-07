@@ -31,11 +31,11 @@ follow my cyber security journey
 
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/elcasodepaz/mac_changer.py)
 - <b> 📃 Certifications </b>
-   - https://coursera.org/share/b3527f408f0d83c71c5c543b7adfbb8a
+   - https://coursera.org
    - Google certification walkthrough
 
 
- <h2>📺Learn Ethical Hacking YouTube Videos</h2>
+ <h2>📺Learn Ethical Hacking YouTube Videos (COMING SOON )</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/soon)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/soon)
